@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_diagonal - prints diagonal line
- * @n: number of times '\' is printed
+ * @n: number of times character is printed
  * Return: void
  */
 
